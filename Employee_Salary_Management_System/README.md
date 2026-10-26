@@ -30,14 +30,11 @@ bushra (Manager) earns $660.00.
 ### Full Output (1)
 
 **7. All output** — `output_all.png`
-![Result](Result.png)
+![Result](screenshot/Result.png)
+<br>
 The complete salary report showing all three employees, stored in an `Employee[]` array and displayed through polymorphism.
 
 ---
-
-
-
-
 
 
 
@@ -57,6 +54,7 @@ Common fields (ID, name, department, basic salary) and methods are written once 
 **4. Explain why `@Override` is used.**
 It tells the compiler that the method replaces a superclass method, so spelling or parameter mistakes are caught at compile time. It also makes the code clearer to read.
 
+<br> 
 
 ✅ 8. Conclusion
 
