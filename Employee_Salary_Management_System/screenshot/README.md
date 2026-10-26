@@ -20,7 +20,7 @@ Shows `Manager` extending `Employee`, using `super()`, and overriding `calculate
 ebyan (Full-Time Employee) earns $240.00.
 
 **5. Part-Time output** — `output_parttime.png`
-![Part-Time Output](Part_time_output.png)
+![Part-Time Output](part_time_output.png)
 kowther (Part-Time Employee) earns $240.00.
 
 **6. Manager output** — `output_manager.png`
