@@ -6,7 +6,7 @@
 Shows `FullTimeEmployee` extending `Employee`, using `super()`, and overriding `calculateSalary()` to return basic salary + allowance.
 
 **2. PartTimeEmployee code** — `code_part time.png`
-![PartTimeEmployee Code](Part_time.png)
+![PartTimeEmployee Code](Part_Time.png)
 Shows `PartTimeEmployee` extending `Employee`, using `super()`, and overriding `calculateSalary()` to return hours worked × hourly rate.
 
 **3. Manager code** — `code_manager.png`
@@ -20,7 +20,7 @@ Shows `Manager` extending `Employee`, using `super()`, and overriding `calculate
 ebyan (Full-Time Employee) earns $240.00.
 
 **5. Part-Time output** — `output_parttime.png`
-![Part-Time Output](Part_time_output.png)
+![Part-Time Output](part_time_output.png)
 kowther (Part-Time Employee) earns $240.00.
 
 **6. Manager output** — `output_manager.png`
@@ -34,6 +34,10 @@ bushra (Manager) earns $660.00.
 The complete salary report showing all three employees, stored in an `Employee[]` array and displayed through polymorphism.
 
 ---
+
+
+
+
 
 
 
