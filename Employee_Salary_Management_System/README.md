@@ -2,29 +2,29 @@
 **Employee Salary Management System**
 
 **1. FullTimeEmployee code** — `code_fulltime.png`
-![FullTimeEmployee Code](screenshot/Full_Time.png)
+![FullTimeEmployee Code](Full_Time.png)
 Shows `FullTimeEmployee` extending `Employee`, using `super()`, and overriding `calculateSalary()` to return basic salary + allowance.
 
 **2. PartTimeEmployee code** — `code_part time.png`
-![PartTimeEmployee Code](screenshot/Part_time.png)
+![PartTimeEmployee Code](Part_time.png)
 Shows `PartTimeEmployee` extending `Employee`, using `super()`, and overriding `calculateSalary()` to return hours worked × hourly rate.
 
 **3. Manager code** — `code_manager.png`
-![Manager Code](screenshot/manager.png)
+![Manager Code](manager.png)
 Shows `Manager` extending `Employee`, using `super()`, and overriding `calculateSalary()` to return basic salary + bonus.
 
 ### Output Screenshots (3)
 
 **4. Full-Time output** — `output_fulltime.png`
-![Full-Time Output](screenshot/full_time_output.png)
+![Full-Time Output](full_time_output.png)
 ebyan (Full-Time Employee) earns $240.00.
 
 **5. Part-Time output** — `output_parttime.png`
-![Part-Time Output](screenshot/Part_time_output.png)
+![Part-Time Output](Part_time_output.png)
 kowther (Part-Time Employee) earns $240.00.
 
 **6. Manager output** — `output_manager.png`
-![Manager Output](screenshot/manager_output.png)
+![Manager Output](manager_output.png)
 bushra (Manager) earns $660.00.
 
 ### Full Output (1)
