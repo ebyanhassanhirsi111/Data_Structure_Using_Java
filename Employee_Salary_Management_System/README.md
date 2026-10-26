@@ -30,7 +30,7 @@ bushra (Manager) earns $660.00.
 ### Full Output (1)
 
 **7. All output** — `output_all.png`
-![Result](Result.png)
+![Result](screenshot/Result.png)
 The complete salary report showing all three employees, stored in an `Employee[]` array and displayed through polymorphism.
 
 ---
@@ -39,7 +39,7 @@ The complete salary report showing all three employees, stored in an `Employee[]
 
 
 
-
+<br>
 
 
 
